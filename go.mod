@@ -1,4 +1,4 @@
-module github.com/hako/branca
+module github.com/GULI-Games/branca
 
 go 1.13
 
